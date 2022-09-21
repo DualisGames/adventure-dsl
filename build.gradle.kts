@@ -11,4 +11,5 @@ repositories {
 
 dependencies {
     api(libs.adventure.api)
+    compileOnly(libs.kotlin.stdlib)
 }

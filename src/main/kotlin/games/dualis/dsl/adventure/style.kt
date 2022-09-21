@@ -16,6 +16,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
+@file:JvmName("StyleDSL")
 @file:Suppress("NOTHING_TO_INLINE", "UNUSED")
 
 package games.dualis.dsl.adventure
