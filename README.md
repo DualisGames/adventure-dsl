@@ -1,5 +1,5 @@
-# sponge-dsl
+# adventure-dsl
 
-A beautiful DSL for the [Sponge](https://spongepowered.org/) API project.
+A Kotlin DSL for [Kyori's Adventure API](https://github.com/KyoriPowered/adventure).
 
-`sponge-dsl` is realeased under the terms of the [MIT license](LICENSE).
+`adventure-dsl` is released under the terms of the [AGPLv3 license](LICENSE).
