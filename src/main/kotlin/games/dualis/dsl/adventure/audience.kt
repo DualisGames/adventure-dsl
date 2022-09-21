@@ -1,5 +1,5 @@
 /*
- * adventure-dsl, A Kotlin DSL for Kyori's Adventure API.
+ * adventure-dsl, a Kotlin DSL for Kyori's Adventure API.
  * Copyright (C) 2022  Dualis Games
  *
  * This program is free software: you can redistribute it and/or modify
