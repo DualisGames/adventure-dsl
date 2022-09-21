@@ -1,0 +1,12 @@
+[versions]
+java = "17"
+kotlin = "1.7.10"
+indra = "2.1.1"
+adventure = "4.11.0"
+
+[plugins]
+indra-sonatype = { id = "net.kyori.indra.publishing.sonatype", version.ref = "indra" }
+kotlin = { id = "org.jetbrains.kotlin.jvm", version.ref = "kotlin" }
+
+[libraries]
+adventure-api = { module = "net.kyori:adventure-api", version.ref = "adventure" }
